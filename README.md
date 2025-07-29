@@ -12,7 +12,6 @@ The purpose of this project is to help new learners understand how basic image t
 - ✅ Gaussian blurring
 - ✅ Canny edge detection
 - ✅ Image reading & displaying
-- ✅ Explanation of common image processing concepts (e.g. kernel, color spaces)
 
 ---
 
