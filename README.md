@@ -1,2 +1,27 @@
-# image-processing-opencv
-A beginner-friendly collection of basic image processing techniques using Python and OpenCV. Includes grayscale conversion, blurring, and edge detection examples.
+# 🖼️ Basic Image Processing with OpenCV
+
+This repository contains beginner-friendly examples of fundamental image processing techniques using **Python** and **OpenCV**.
+
+The purpose of this project is to help new learners understand how basic image transformations work and how they are implemented using the `cv2` library.
+
+---
+
+## 📌 Features
+
+- ✅ Grayscale conversion
+- ✅ Gaussian blurring
+- ✅ Canny edge detection
+- ✅ Image reading & displaying
+- ✅ Explanation of common image processing concepts (e.g. kernel, color spaces)
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.x  
+- OpenCV (`opencv-python`)
+
+Install via pip:
+
+```bash
+pip install opencv-python
